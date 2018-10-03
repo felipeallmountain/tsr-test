@@ -1,0 +1,884 @@
+{
+  "chart": {
+      "_id": "43d1a7bd-ed5f-4486-acd3-5e689a701TT1",
+      "domain": "chart",
+      "rooms": [
+          {
+              "id": 1,
+              "name": "Main Embed"
+          },
+          {
+              "id": 3,
+              "name": "Patio"
+          },
+          {
+              "id": 2,
+              "name": "Sky Deck"
+          }
+      ],
+      "tables": [
+          {
+              "id": 2,
+              "table": 101,
+              "x": 251,
+              "y": 93,
+              "type": "rectangle",
+              "seats": 4,
+              "rotation": 270,
+              "room": 1
+          },
+          {
+              "id": 12,
+              "table": 800,
+              "x": 216,
+              "y": 226,
+              "type": "rectangle",
+              "seats": 8,
+              "rotation": 0,
+              "room": 3
+          },
+          {
+              "id": 13,
+              "table": 801,
+              "x": 20,
+              "y": 128,
+              "type": "rectangle",
+              "seats": 10,
+              "rotation": 0,
+              "room": 2
+          },
+          {
+              "id": 18,
+              "table": 0,
+              "x": 10,
+              "y": 103,
+              "type": "icon",
+              "seats": 1,
+              "rotation": 45,
+              "room": 1
+          },
+          {
+              "id": 19,
+              "table": 100,
+              "x": 166,
+              "y": 93,
+              "type": "rectangle",
+              "seats": 4,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 21,
+              "table": 103,
+              "x": 424,
+              "y": 95,
+              "type": "rectangle",
+              "seats": 4,
+              "rotation": 45,
+              "room": 1
+          },
+          {
+              "id": 22,
+              "table": 104,
+              "x": 584,
+              "y": 112,
+              "type": "rectangle",
+              "seats": 8,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 23,
+              "table": 0,
+              "x": 91,
+              "y": 172,
+              "type": "icon",
+              "seats": 5,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 24,
+              "table": 0,
+              "x": 0,
+              "y": 0,
+              "type": "icon",
+              "seats": 9,
+              "rotation": 135,
+              "room": 1
+          },
+          {
+              "id": 25,
+              "table": 200,
+              "x": 24,
+              "y": 318,
+              "type": "rectangle",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 26,
+              "table": 201,
+              "x": 25,
+              "y": 389,
+              "type": "rectangle",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 27,
+              "table": 202,
+              "x": 25,
+              "y": 454,
+              "type": "rectangle",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 28,
+              "table": 203,
+              "x": 26,
+              "y": 522,
+              "type": "rectangle",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 29,
+              "table": 204,
+              "x": 25,
+              "y": 586,
+              "type": "rectangle",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 30,
+              "table": 500,
+              "x": 410,
+              "y": 280,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 31,
+              "table": 501,
+              "x": 410,
+              "y": 305,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 32,
+              "table": 502,
+              "x": 410,
+              "y": 332,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 33,
+              "table": 503,
+              "x": 410,
+              "y": 359,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 34,
+              "table": 504,
+              "x": 410,
+              "y": 386,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 35,
+              "table": 505,
+              "x": 410,
+              "y": 412,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 36,
+              "table": 506,
+              "x": 410,
+              "y": 439,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 37,
+              "table": 507,
+              "x": 410,
+              "y": 466,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 38,
+              "table": 508,
+              "x": 410,
+              "y": 493,
+              "type": "rectangle",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 39,
+              "table": 0,
+              "x": 534.6666971842449,
+              "y": 389.8333231608073,
+              "type": "icon",
+              "seats": 4,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 40,
+              "table": 0,
+              "x": 492,
+              "y": 267,
+              "type": "icon",
+              "seats": 9,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 41,
+              "table": 0,
+              "x": 491,
+              "y": 505,
+              "type": "icon",
+              "seats": 9,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 42,
+              "table": 600,
+              "x": 147,
+              "y": 567,
+              "type": "round",
+              "seats": 12,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 43,
+              "table": 601,
+              "x": 258,
+              "y": 565,
+              "type": "round",
+              "seats": 12,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 44,
+              "table": 602,
+              "x": 200,
+              "y": 469,
+              "type": "round",
+              "seats": 6,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 45,
+              "table": 603,
+              "x": 143,
+              "y": 398,
+              "type": "round",
+              "seats": 4,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 46,
+              "table": 604,
+              "x": 263,
+              "y": 401,
+              "type": "round",
+              "seats": 4,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 47,
+              "table": 0,
+              "x": 206,
+              "y": 217,
+              "type": "icon",
+              "seats": 6,
+              "rotation": 45,
+              "room": 1
+          },
+          {
+              "id": 48,
+              "table": 0,
+              "x": 139,
+              "y": 283,
+              "type": "icon",
+              "seats": 6,
+              "rotation": 45,
+              "room": 1
+          },
+          {
+              "id": 49,
+              "table": 0,
+              "x": 650,
+              "y": 231,
+              "type": "icon",
+              "seats": 3,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 50,
+              "table": 0,
+              "x": 656,
+              "y": 541,
+              "type": "icon",
+              "seats": 3,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 51,
+              "table": 0,
+              "x": 569,
+              "y": 232,
+              "type": "icon",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 52,
+              "table": 0,
+              "x": 569,
+              "y": 539,
+              "type": "icon",
+              "seats": 1,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 53,
+              "table": 605,
+              "x": 203,
+              "y": 338,
+              "type": "round",
+              "seats": 4,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 54,
+              "table": 606,
+              "x": 299,
+              "y": 255,
+              "type": "rectangle",
+              "seats": 10,
+              "rotation": 45,
+              "room": 1
+          },
+          {
+              "id": 56,
+              "table": 0,
+              "x": 385,
+              "y": 577,
+              "type": "icon",
+              "seats": 2,
+              "rotation": 0,
+              "room": 1
+          },
+          {
+              "id": 57,
+              "table": 0,
+              "x": 335,
+              "y": 583,
+              "type": "icon",
+              "seats": 7,
+              "rotation": 90,
+              "room": 1
+          }
+      ],
+      "_kd": {
+          "mergerule": "REPLACE",
+          "type": "socket",
+          "site_id": "embed",
+          "room": "state",
+          "offline": false
+      },
+      "service": "client",
+      "api": {
+          "version": "1.0.0"
+      },
+      "active": 1,
+      "name": "Seat Map 1"
+  },
+  "template": [
+      {
+          "_id": "d1c83f1a-424a-4441-bb61-42b9f548aedF",
+          "domain": "template",
+          "name": "5 Server",
+          "tables": [
+              {
+                  "id": 1,
+                  "table": 601,
+                  "section": 5
+              },
+              {
+                  "id": 2,
+                  "table": 600,
+                  "section": 5
+              },
+              {
+                  "id": 3,
+                  "table": 602,
+                  "section": 8
+              },
+              {
+                  "id": 4,
+                  "table": 604,
+                  "section": 8
+              },
+              {
+                  "id": 5,
+                  "table": 605,
+                  "section": 8
+              },
+              {
+                  "id": 6,
+                  "table": 606,
+                  "section": 8
+              },
+              {
+                  "id": 7,
+                  "table": 103,
+                  "section": 1
+              },
+              {
+                  "id": 9,
+                  "table": 101,
+                  "section": 1
+              },
+              {
+                  "id": 10,
+                  "table": 100,
+                  "section": 1
+              },
+              {
+                  "id": 11,
+                  "table": 104,
+                  "section": 1
+              },
+              {
+                  "id": 12,
+                  "table": 200,
+                  "section": 3
+              },
+              {
+                  "id": 13,
+                  "table": 201,
+                  "section": 3
+              },
+              {
+                  "id": 14,
+                  "table": 202,
+                  "section": 3
+              },
+              {
+                  "id": 15,
+                  "table": 203,
+                  "section": 3
+              },
+              {
+                  "id": 16,
+                  "table": 204,
+                  "section": 3
+              },
+              {
+                  "id": 17,
+                  "table": 603,
+                  "section": 8
+              },
+              {
+                  "id": 18,
+                  "table": 500,
+                  "section": 9
+              },
+              {
+                  "id": 19,
+                  "table": 501,
+                  "section": 9
+              },
+              {
+                  "id": 20,
+                  "table": 502,
+                  "section": 9
+              },
+              {
+                  "id": 21,
+                  "table": 503,
+                  "section": 9
+              },
+              {
+                  "id": 22,
+                  "table": 504,
+                  "section": 9
+              },
+              {
+                  "id": 23,
+                  "table": 505,
+                  "section": 9
+              },
+              {
+                  "id": 24,
+                  "table": 506,
+                  "section": 9
+              },
+              {
+                  "id": 25,
+                  "table": 507,
+                  "section": 9
+              },
+              {
+                  "id": 26,
+                  "table": 508,
+                  "section": 9
+              }
+          ],
+          "active": 1,
+          "_kd": {
+              "type": "socket",
+              "site_id": "embed",
+              "user_id": "124",
+              "room": "state"
+          },
+          "service": "client",
+          "api": {
+              "version": "1.0.0"
+          },
+          "order": 3,
+          "chart": "43d1a7bd-ed5f-4486-acd3-5e689a701TT1"
+      }
+  ],
+  "location": {
+      "_id": "101",
+      "domain": "location",
+      "template": "d1c83f1a-424a-4441-bb61-42b9f548aedF",
+      "_kd": {
+          "type": "socket",
+          "site_id": "101",
+          "user_id": "124",
+          "room": "state"
+      },
+      "timezone": "America/New_York",
+      "service": "client",
+      "api": {
+          "version": "1.0.0"
+      },
+      "baseTurn": 40,
+      "alertMethod": 1,
+      "sms": "7149759408",
+      "turnTimes": [
+          {
+              "id": 1,
+              "description": "1-2",
+              "turnTime": -5
+          },
+          {
+              "id": 2,
+              "description": "3-4",
+              "turnTime": 0
+          },
+          {
+              "id": 3,
+              "description": "5-6",
+              "turnTime": 10
+          },
+          {
+              "id": 4,
+              "description": "7-8",
+              "turnTime": 15
+          },
+          {
+              "id": 5,
+              "description": "9-10",
+              "turnTime": 20
+          },
+          {
+              "id": 6,
+              "description": "11-12",
+              "turnTime": 35
+          },
+          {
+              "id": 7,
+              "description": "13+",
+              "turnTime": 40
+          }
+      ],
+      "tableStatus": [
+          {
+              "id": 1,
+              "description": "Open",
+              "value": 1,
+              "color": "transparent"
+          },
+          {
+              "id": 2,
+              "description": "Seated",
+              "value": 2,
+              "color": "transparent"
+          },
+          {
+              "id": 3,
+              "description": "Ordered",
+              "value": 3,
+              "color": "#147d89"
+          },
+          {
+              "id": 4,
+              "description": "Printed",
+              "value": 4,
+              "color": "#7ae827"
+          },
+          {
+              "id": 5,
+              "description": "Paid",
+              "value": 5,
+              "color": "#e89727"
+          },
+          {
+              "id": 6,
+              "description": "Dirty",
+              "value": 6,
+              "color": "#e52810"
+          }
+      ],
+      "assignments": [
+          {
+              "id": 1,
+              "section": 1,
+              "server": "Scott"
+          },
+          {
+              "id": 2,
+              "section": 2,
+              "server": "Ted"
+          },
+          {
+              "id": 3,
+              "section": 3,
+              "server": "Fred"
+          },
+          {
+              "id": 4,
+              "section": 4,
+              "server": "Teddy"
+          },
+          {
+              "id": 5,
+              "section": 10,
+              "server": "Scotty"
+          },
+          {
+              "id": 6,
+              "section": 6,
+              "server": "Teddy"
+          }
+      ],
+      "servers": [
+          {
+              "id": 1,
+              "name": "Scotty"
+          },
+          {
+              "id": 2,
+              "name": "Teddy"
+          },
+          {
+              "id": 3,
+              "name": "Feddy"
+          },
+          {
+              "id": 4,
+              "name": "Pickle"
+          }
+      ],
+      "room": 1,
+      "disabledTables": [],
+      "preferenceTypes": [
+          {
+              "id": 1,
+              "value": "First Available",
+              "description": "First Available"
+          },
+          {
+              "id": 2,
+              "value": "Inside",
+              "description": "Inside"
+          },
+          {
+              "id": 3,
+              "value": "Outside",
+              "description": "Outside"
+          }
+      ],
+      "notes": [
+          {
+              "id": 1,
+              "value": "VIP",
+              "description": "VIP"
+          },
+          {
+              "id": 2,
+              "value": "Booster",
+              "description": "Booster"
+          },
+          {
+              "id": 3,
+              "value": "Birthday",
+              "description": "Birthday"
+          },
+          {
+              "id": 4,
+              "value": "Anniversary",
+              "description": "Anniversary"
+          },
+          {
+              "id": 5,
+              "value": "Incomplete Party!",
+              "description": "Incomplete Party"
+          }
+      ],
+      "chart": "43d1a7bd-ed5f-4486-acd3-5e689a701TT1",
+      "test": false,
+      "alertMessage": "Your table is ready!",
+      "autoAlert": false,
+      "addMe": false,
+      "emailCollection": 3,
+      "baseSeats": 10,
+      "requireCreatedBy": true,
+      "resWebSendConfirmation": true,
+      "resWebRequireConfirmation": true,
+      "resWebAutomatic": false,
+      "resWebAutomaticInterval": 6,
+      "rememberUser": true,
+      "lockDevice": true,
+      "lockDeviceTimeout": 10,
+      "tableMap": true,
+      "groupCallBack": true,
+      "groupCallBackSize": 20,
+      "callAhead": true,
+      "time24": true,
+      "kiosk": true,
+      "kioskSkip": true,
+      "kioskCost": 1.1,
+      "background": true,
+      "backgroundGraphic": 10,
+      "chitQueue": true,
+      "chitSeat": true,
+      "chitAutomatic": true,
+      "operation": {
+          "openDate": 1408178000,
+          "closeDate": 1900000000
+      },
+      "seatCount": 100
+  },
+  "limit": [
+      {
+          "_id": "02ad2582-8922-4e57-be38-22452c7cdb86",
+          "domain": "limit",
+          "name": "Weekly Setup",
+          "open": 60,
+          "close": 89,
+          "seats": 150,
+          "active": 2,
+          "order": 1,
+          "type": "day",
+          "range": {
+              "mon": 0,
+              "tue": 1,
+              "wed": 1,
+              "thu": 1,
+              "fri": 1,
+              "sat": 1,
+              "sun": 1,
+              "start": 1516744800,
+              "end": 1516744800
+          },
+          "limits": [
+              {
+                  "id": 1,
+                  "active": false,
+                  "maxWeb": 8,
+                  "turnTime": 60,
+                  "start": 60,
+                  "end": 69,
+                  "size": 90,
+                  "split": 5
+              },
+              {
+                  "id": 2,
+                  "active": false,
+                  "maxWeb": 8,
+                  "turnTime": 60,
+                  "start": 69,
+                  "end": 79,
+                  "size": 104,
+                  "split": 8
+              },
+              {
+                  "id": 3,
+                  "active": false,
+                  "maxWeb": 5,
+                  "turnTime": 60,
+                  "start": 79,
+                  "end": 89,
+                  "size": 109,
+                  "split": 8
+              }
+          ],
+          "_kd": {
+              "type": "socket",
+              "site_id": "102",
+              "user_id": "124",
+              "room": "state",
+              "updated": 1509719125386,
+              "created": 1505498501222,
+              "confirmed": 1516160788241
+          },
+          "service": "client",
+          "api": {
+              "version": "1.0.0"
+          }
+      }
+  ]
+}
